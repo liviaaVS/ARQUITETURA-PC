@@ -51,7 +51,7 @@ Bem-vindo ao Projeto FROGGER, uma implementação clássica do famoso jogo Frogg
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests para melhorar este projeto.
 
 ## Créditos
-
+[Png tools](https://onlinepngtools.com/convert-png-to-hex)
 Este projeto foi desenvolvido por Livia Vitória da Silva como parte do projeto final da disciplina de Arquitetura de Computadores.
 
 Divirta-se jogando! 🐸🚗💦
